@@ -2,15 +2,13 @@
 
 # Forkify
 
+Watch the demo video:
+https://github.com/PDARSHIL312/Frokify-The-Recipe-App/assets/137078389/dbb34735-3cf5-4bb2-8224-7faf0fc68a2c
+
 
 Forkify is a web application built with HTML, SASS, and JavaScript. It leverages modern ES6 features and follows Object-Oriented Programming (OOP) principles. This application allows users to search for recipes, add new recipes, bookmark their favorite recipes, and adjust ingredient quantities based on the number of servings.
 
 
-
-
-Watch the demo video:
-
-<iframe width="560" height="315" src="https://vimeo.com/manage/videos/958391307" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Features
